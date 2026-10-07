@@ -1,0 +1,39 @@
+# Unity tarafından üretilen, repoya girmemesi gereken klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / sistem dosyaları
+.vs/
+.vscode/
+.idea/
+.gradle/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.DS_Store
+Thumbs.db
+sysinfo.txt
+.utmp/
+
+# Build çıktıları
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
